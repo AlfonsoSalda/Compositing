@@ -30,7 +30,7 @@ Este proyecto en Python permite unir una fotografía real con un personaje estil
 ### 🔁 Clonar el proyecto
 
 ```
-git clone https://github.com/AlfonsoSalda/Compositing/tree/main
+git clone https://github.com/AlfonsoSalda/Compositing.git
 cd compositing
 ```
 
