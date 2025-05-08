@@ -54,11 +54,11 @@ python compositing.py
 ```
 🖼️ **Ejemplos de salida**  
 Aquí tienes 5 ejemplos del resultado que se puede lograr:  
-[Ejemplo 1](examples/resultado.jpg)  
-[Ejemplo 2](examples/resultado2.jpg)
-[Ejemplo 3](examples/resultado3.jpg)
-[Ejemplo 4](examples/resultado4.jpg)
-[Ejemplo 5](examples/resultado5.jpg)
+![Ejemplo 1](examples/resultado.jpg)  
+![Ejemplo 2](examples/resultado2.jpg)
+![Ejemplo 3](examples/resultado3.jpg)
+![Ejemplo 4](examples/resultado4.jpg)
+![Ejemplo 5](examples/resultado5.jpg)
 
 ⚙️ **Personalización**  
 Modifica valores en el bloque `CONFIG` del archivo principal:  
